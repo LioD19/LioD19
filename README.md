@@ -93,5 +93,5 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LioD19/LioD19/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/LioD19/LioD19/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
