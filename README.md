@@ -1,9 +1,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6E56CF&center=true&vCenter=true&random=false&width=500&lines=Hey+%F0%9F%91%8B+What's+up+%3F;Welcome+to+my+profile!" alt="Typing SVG" />
-  
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=LioD19&style=for-the-badge&color=6E56CF" alt="Profile Views"/>
-  </div>
 </div>
 
 <h1 align="center">
