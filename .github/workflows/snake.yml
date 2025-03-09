@@ -1,0 +1,35 @@
+# Ce fichier doit être placé dans votre dépôt à l'emplacement: .github/workflows/snake.yml
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Exécute le workflow tous les jours à minuit
+    - cron: "0 0 * * *"
+    
+  # Permet d'exécuter ce workflow manuellement depuis l'onglet Actions
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Récupère le code source
+      - uses: actions/checkout@v2
+      
+      # Génère l'animation du serpent à partir des contributions
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: LioD19  # Remplacez par votre nom d'utilisateur GitHub
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path_dark: dist/github-contribution-grid-snake-dark.svg
+
+      # Déploie sur la branche "output"
+      - uses: crazy-max/ghaction-github-pages@v2.6.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
