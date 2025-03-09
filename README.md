@@ -22,7 +22,7 @@
 
 <p align="left">
   <strong>🔭 Currently working on:</strong> Advancing my skills in modern web frameworks<br>
-  <strong>🌱 Learning:</strong> Advanced React patterns and Cloud architecture<br>
+  <strong>🌱 Learning:</strong> Artificial intelligence and big data<br>
   <strong>👯 Looking to collaborate on:</strong> Web applications that make a difference<br>
   <strong>💬 Ask me about:</strong> JavaScript, React, PHP, or anything web-related!<br>
   <strong>⚡ Fun fact:</strong> I code better with music playing in the background 🎵
@@ -94,8 +94,4 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/LioD19/LioD19/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E56CF&height=120&section=footer" />
 </div>
