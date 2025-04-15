@@ -21,7 +21,7 @@
   <strong>🌱 Learning:</strong> Artificial intelligence and big data<br>
   <strong>👯 Looking to collaborate on:</strong> Web applications that make a difference<br>
   <strong>💬 Ask me about:</strong> JavaScript, React, PHP, or anything web-related!<br>
-  <strong>⚡ Fun fact:</strong> I code better with music playing in the background 🎵
+  <strong>⚡ Fun fact:</strong> I code better with music playing in the background 🎵😊
 </p>
 
 <div align="center">
